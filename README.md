@@ -1,1 +1,93 @@
 # Grand-rp.ru
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Role Play</title>
+    <link rel="stylesheet" href="index.css">
+    
+
+    
+</head>
+<body>
+<!-- Navbar  Section Start -->
+
+<header>
+   
+    <a href="#" class="logo">Grand Role Play</a>
+
+    <div class="bx bx-menu" id="menu-icon"></div>
+
+    <ul class="navbar">
+        <li><a href="https://youtu.be/nzfXoBDv5Vs">YouTube</a></li>
+        <li><a href="https://discord.gg/RP85sjQf">Discord</a></li>
+        <li><a href="https://vk.com/id785725619">Vkontakt</a></li>
+        <div class="bx bx-moon" id="darkmode"></div>
+    </ul>
+</header>
+<!-- Navbar Section End -->
+   
+   
+   
+    <center><img src="Armenias.jpg" widht="600px" height="830px"></center>
+    
+
+ <!-- About Section Start -->
+
+ <section class="about" id="about">
+    <div class="heading">
+        <h2>Grand Role Play</h2>
+        <span>Introduction</span>
+    </div>
+
+    <div class="about-container">
+        <div class="about-img">
+            <img src="lastperson.png" alt="">
+        </div>
+        <div class="about-text">
+            <p>ՍՏԵՂԾԻՐ ՔՈ ՊԱՏՄՈՒԹՅՈՒՆԸ
+                GRAND ROLE PLAY-ՈՒՄ
+                Խաղա հայտնի GTA San Andreas
+                ARMENIA ROLE PLAY-ի նախագծում</p>
+
+                <a href="" class="btn btn-red"><span class="glyphicon glyphicon-play"></span> ՏԵՍԱՆՅՈՒԹ</a>
+            
+
+
+                
+            </div>
+           <a href="http://files.sa-mp.com/sa-mp-0.3.7-install.exe" class="btn">Ներբեռնել MULTIPLAYER </a>
+        </div>
+    </div>
+</section>
+<!-- About Section End -->
+
+     <!-- Skills Section End -->
+
+     
+     <div class="img-container d-none">
+        
+        <img
+          src="RP.webp" widht="400px" height="900px"
+          alt=""
+        />
+      </div>
+    </section>
+
+    
+
+    </div>
+
+    <script src="index.js"></script>
+
+    <div class="copyright">
+        &#169; Grand RolePlay| All Right Reserved.</p>
+    </div>
+
+   
+  
+   
+</body>
+</html>
